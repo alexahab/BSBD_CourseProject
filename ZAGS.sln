@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZAGS", "ZAGS\ZAGS.csproj", "{6DAB23BF-FFE2-4EEE-9921-D999DEC53464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DAB23BF-FFE2-4EEE-9921-D999DEC53464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DAB23BF-FFE2-4EEE-9921-D999DEC53464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DAB23BF-FFE2-4EEE-9921-D999DEC53464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DAB23BF-FFE2-4EEE-9921-D999DEC53464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {230F4451-BBA9-4121-980F-4A62464FD6CA}
+	EndGlobalSection
+EndGlobal
